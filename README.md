@@ -1,12 +1,11 @@
-## Welcome to GitHub Pages
+## Photography
 
-You can use the [editor on GitHub](https://github.com/heerp20/Photography1/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+On this site I wanted to share with everyone my work of photography over the years. 
+My photography is mostly focused on differenct forms of nature. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### An example of my photography 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I have included a link for my [official website](https://heer2004p.wixsite.com/mysite-1), where you can see more of my work. 
 
 ```markdown
 Syntax highlighted code block
