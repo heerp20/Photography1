@@ -14,4 +14,4 @@ I have included a link for my [official website](https://heer2004p.wixsite.com/m
 
 ## Contact
 
-If you hane any questions or want to see more of my work, contact me at heer2004p@gmail.com  
+If you have any questions or want to see more of my work, contact me at heer2004p@gmail.com  
