@@ -8,8 +8,8 @@ My photography is mostly focused on differenct forms of nature.
 I have included a link for my [official website](https://heer2004p.wixsite.com/mysite-1), where you can see more of my work. 
 
 ```markdown
-![IMG_0811](https://user-images.githubusercontent.com/72675981/95712459-a8c30180-0c19-11eb-86fe-4ded955bcf90.jpeg)
-![Image](src)
+![](IMG_0811.jpeg)
+![](IMG_0086.jpeg)
 ```
 
 ## Contact
