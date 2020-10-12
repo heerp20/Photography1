@@ -8,7 +8,7 @@ My photography is mostly focused on differenct forms of nature.
 I have included a link for my [official website](https://heer2004p.wixsite.com/mysite-1), where you can see more of my work. 
 
 ```markdown
-![A panarama view of mountains in Alaska](IMG_0081.jpeg)
+![A panarama view of mountains in Alaska](file:///Users/Heer/Desktop/IMG_0086.jpeg)
 ![Image](src)
 ```
 
