@@ -9,7 +9,7 @@ I have included a link for my [official website](https://heer2004p.wixsite.com/m
 
 ```markdown
 ![](IMG_0811.jpeg)
-![](IMG_0086.jpeg)
+![](https://drive.google.com/file/d/1apD986SgToSZ-tG7llJ8KCYR7UAEWSf9/view)
 ```
 
 ## Contact
